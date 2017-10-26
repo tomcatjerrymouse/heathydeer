@@ -1,0 +1,45 @@
+.headerBack{
+    overflow: hidden;
+    background-color: #4F99D2;
+    height: 82px;
+    min-width: 1200px;
+}
+.headerImg{
+    width: 50%;
+    float: left;
+    line-height: 98px;
+}
+.img{
+    margin-left: 60%;
+}
+.nav{
+
+}
+.ul{
+    float: left;
+    height: 100%;
+}
+.li{
+    width: 100px;
+    height: 100%;
+    background-color: #4F99D2;
+    float: left;
+    line-height: 82px;
+    text-align: center;
+    color: #DAEEFF;
+    font-size: 16px;
+}
+.start{
+    text-decoration: none;
+    color: #DAEEFF;
+}
+.underline{
+    /*设置下划线距离*/
+    text-decoration: none;
+    padding-bottom:20px;
+    border-top:none ;
+    border-left: none;
+    border-right: none;
+    border-bottom:1px solid #FFFFFF;
+    color: #ffffff;
+}
