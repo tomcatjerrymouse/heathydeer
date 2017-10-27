@@ -33,6 +33,10 @@
     text-decoration: none;
     color: #DAEEFF;
 }
+.start:hover{
+    text-decoration: none;
+    color: #FFFFFF;
+}
 .underline{
     /*设置下划线距离*/
     text-decoration: none;

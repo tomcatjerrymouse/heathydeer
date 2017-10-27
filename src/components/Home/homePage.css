@@ -1,0 +1,36 @@
+.homeWrap{
+   min-width: 1200px;
+}
+.serviceWrap{
+    position:relative;
+    width:100%;
+    height:590px;
+    background-color:#fff;
+}
+.mediaWrap{
+    position:relative;
+    width:100%;
+    height:590px;
+    background-color:#EDF5FC;
+}
+.blue{
+    margin-top: -125px;
+}
+.hide1{
+    visibility: hidden;
+}
+.hide2{
+    visibility: hidden;
+}
+.hide3{
+    visibility: hidden;
+}
+.show1:hover .hide1{
+    visibility: visible;
+}
+.show2:hover .hide2{
+    visibility: visible;
+}
+.show3:hover .hide3{
+    visibility: visible;
+}

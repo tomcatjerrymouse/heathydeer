@@ -15,11 +15,11 @@ class Header extends Component {
                     </div>
                     <div className="nav">
                         <ul className='ul'>
-                            <li className='li'><Link className="start" activeClassName='underline' to='/Home'>首页</Link></li>
-                            <li className='li'><Link className="start" activeClassName='underline' to='/AluService'>阿鹿服务</Link></li>
-                            <li className='li'><Link className="start" activeClassName='underline' to='/MediaCoverage'>在线预约</Link></li>
-                            <li className='li'><Link className="start" activeClassName='underline' to='/OnlineBooking'>媒体报道</Link></li>
-                            <li className='li'><Link className="start" activeClassName='underline' to='/AboutUs'>关于我们</Link></li>
+                            <li className='li'><Link className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/Home'>首页</Link></li>
+                            <li className='li'><Link className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/AluService'>阿鹿服务</Link></li>
+                            <li className='li'><Link className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/MediaCoverage'>在线预约</Link></li>
+                            <li className='li'><Link className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/OnlineBooking'>媒体报道</Link></li>
+                            <li className='li'><Link className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/AboutUs'>关于我们</Link></li>
                         </ul>
                     </div>
                 </div>
