@@ -1,0 +1,24 @@
+.lis{
+    line-height: 66px;
+    font-size: 16px;
+    width: 160px;
+    height:66px;
+    margin-bottom: 2px;
+    background-color: #fff;
+    text-align: center;
+}
+.start2{
+    text-decoration: none;
+    color: #666666;
+}
+
+.lis:hover{
+    border-left:2px solid #5296CE ;
+    color:#5296CE
+}
+
+.active2{
+    text-decoration: none;
+    color: #5296CE;
+    background-color:#5296CE ;
+}
