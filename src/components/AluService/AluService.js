@@ -9,10 +9,13 @@ import AluServiceHulianwang from './AluServiceHulianwang'
 class AluService extends Component {
     render() {
         return (
-            <div>
+            <div style={{minWidth:'1200px'}}>
                 <div className="AluTitle"><img width="100%" height='100%' src={title} alt=""/></div>
+                <div id='menzhen'></div>
                 <AluServiceMenzhen></AluServiceMenzhen>
-                <AluServiceHuiyuan></AluServiceHuiyuan>
+                <div id='huiyuna'></div>
+                <AluServiceHuiyuan ></AluServiceHuiyuan>
+                <div id='hulianwang'></div>
                 <AluServiceHulianwang></AluServiceHulianwang>
             </div>
         );

@@ -18,20 +18,23 @@
     margin-top: -125px;
 }
 .hide1{
-    visibility: hidden;
+    transition: .5s;
 }
 .hide2{
-    visibility: hidden;
+    transition: .5s;
 }
 .hide3{
-    visibility: hidden;
+    transition: .5s;
 }
 .show1:hover .hide1{
-    visibility: visible;
+    transform: scale(1.05);
+    transition: .5s;
 }
 .show2:hover .hide2{
-    visibility: visible;
+    transform: scale(1.05);
+    transition: .5s;
 }
 .show3:hover .hide3{
-    visibility: visible;
+    transform: scale(1.05);
+    transition: .5s;
 }
