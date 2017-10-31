@@ -41,7 +41,7 @@ class Footer extends Component {
                             <div className='navTitle'>预约挂号</div>
                             <div className='line'></div>
                             <ul className='ul'>
-                                <Link activeStyle={{textDecoration:'none'}} to='/OnlineBooking'><li className="lies">在线预约</li></Link>
+                                <Link activeStyle={{textDecoration:'none'}} to='/OnlineBooking'><li className="lies" onClick={()=>this.scrollToAnchor('online')}>在线预约</li></Link>
                             </ul>
                         </div>
                         <div className='navWrapSub'>

@@ -51,8 +51,8 @@ class HomePage extends Component {
                 <Carousel autoplay >
                             <div className="carousel"><img src={carousel_1} style={{width:'100%'}} alt=""/></div>
                             <div className="carousel"><img src={carousel_2} style={{width:'100%'}} alt=""/></div>
-                            <div className="carousel"><img src={carousel_1} style={{width:'100%'}} alt=""/></div>
-                            <div className="carousel"><img src={carousel_2} style={{width:'100%'}} alt=""/></div>
+                           {/* <div className="carousel"><img src={carousel_1} style={{width:'100%'}} alt=""/></div>
+                            <div className="carousel"><img src={carousel_2} style={{width:'100%'}} alt=""/></div>*/}
                 </Carousel>
                 <div className="serviceWrap">
                     <div style={{textAlign:"center",marginTop:'50px',marginBottom:"80px"}}>
