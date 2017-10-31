@@ -5,8 +5,8 @@ import dot from './Group 10.png'
 class Dot extends Component {
     render() {
         return (
-            <div>
-                <img src={dot} alt=""/>
+            <div id='dot'>
+                <img src={dot} width='936px' height='781px' alt=""/>
             </div>
         );
     }

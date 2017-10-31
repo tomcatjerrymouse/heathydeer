@@ -1,4 +1,6 @@
 .headerBack{
+    width: 100%;
+    position: fixed;
     overflow: hidden;
     background-color: #4F99D2;
     height: 82px;
@@ -10,7 +12,8 @@
     line-height: 98px;
 }
 .img{
-    margin-left: 60%;
+    margin-left: 33%;
+    margin-top: 20px;
 }
 .nav{
 

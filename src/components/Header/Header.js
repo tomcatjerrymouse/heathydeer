@@ -8,32 +8,30 @@ import './Header.css'
 class Header extends Component {
 
         scrollToAnchor = (anchorName) => {
+            console.log(anchorName)
             setTimeout(function () {
-                console.log(anchorName)
                 if (anchorName) {
                     let anchorElement = document.getElementById(anchorName);
                     console.log(anchorElement)
                     if(anchorElement) { anchorElement.scrollIntoView(); }
                 }
-            },10)
+            },1)
         }
 
     render() {
         return (
-            <div>
+            <div style={{position:'fixed',zIndex:'9999'}}>
                 <div className="headerBack">
                     <div className="headerImg">
                         <Link to='/Home'><img className='img' width={'146px'} height={'40px'} src={logo} alt="logo"/></Link>
                     </div>
                     <div className="nav">
                         <ul className='ul'>
-                            <li className='li'><Link className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/Home'>首页</Link></li>
-                            <li className='li'><Link className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/AluService'>阿鹿服务</Link></li>
-                            <li className='li'><Link className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/OnlineBooking'>在线预约</Link></li>
-                            {/*<Link className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/Home#map'><li className='li' onClick={()=>this.scrollToAnchor('map')}>媒体报道</li></Link>*/}
-                            {/*<li className='li' onClick={()=>this.scrollToAnchor('media').bind(this)}><Link className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/Home'>媒体报道</Link></li>*/}
+                            <li className='li'><Link onClick={()=>this.scrollToAnchor('home')} className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/Home'>首页</Link></li>
+                            <li className='li'><Link onClick={()=>this.scrollToAnchor('service')} className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/AluService'>阿鹿服务</Link></li>
+                            <li className='li'><Link onClick={()=>this.scrollToAnchor('online')} className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/OnlineBooking'>在线预约</Link></li>
                             <Link className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/Home#media'><li className='li' onClick={()=>this.scrollToAnchor('media')}>媒体报道</li></Link>
-                            <li className='li'><Link className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/AboutUs'>关于我们</Link></li>
+                            <li className='li'><Link onClick={()=>this.scrollToAnchor('aboutUs')} className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/AboutUs'>关于我们</Link></li>
                         </ul>
                     </div>
                 </div>

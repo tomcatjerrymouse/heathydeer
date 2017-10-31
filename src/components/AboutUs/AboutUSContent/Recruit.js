@@ -5,8 +5,8 @@ import recruit from './Group 9.png'
 class Recruit extends Component {
     render() {
         return (
-            <div>
-                <img src={recruit} alt=""/>
+            <div id='recruit'>
+                <img src={recruit} width='936px' height='624px' alt=""/>
             </div>
         );
     }

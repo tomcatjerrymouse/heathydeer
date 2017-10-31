@@ -5,8 +5,8 @@ import Huilianwang from './Group 33.png'
 class AluServiceHulianwang extends Component {
     render() {
         return (
-            <div style={{textAlign:"center",paddingTop:'30px'}}>
-                <img src={Huilianwang} alt=""/>
+            <div style={{textAlign:"center",paddingTop:'82px'}}>
+                <img src={Huilianwang} width='1107px' height='715px' alt=""/>
             </div>
         );
     }

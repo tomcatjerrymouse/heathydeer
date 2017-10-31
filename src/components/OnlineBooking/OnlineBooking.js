@@ -5,7 +5,7 @@ import online from './online.png'
 class OnlineBooking extends Component {
     render() {
         return (
-            <div style={{minWidth:'1200px'}}>
+            <div id='online' style={{minWidth:'1200px',marginTop:'82px'}}>
                 <img src={online} width='100%' height='100%' alt=""/>
             </div>
         );

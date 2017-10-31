@@ -4,7 +4,8 @@ import {Router, Route, hashHistory, IndexRoute,IndexRedirect} from 'react-router
 
 import Home from './components/Home/HomePage'
 import AluService from './components/AluService/AluService'
-import MediaCoverage from './components/MediaCoverage/MediaCoverage'
+import CopyRight from './components/CopyRight/CopyRight'
+import MediaCoverage from './components/CopyRight/CopyRight'
 import OnlineBooking from './components/OnlineBooking/OnlineBooking'
 import AboutUs from './components/AboutUs/AboutUs'
 import AluServiceMenzhen from './components/AluService/AluServiceMenzhen'
@@ -33,7 +34,7 @@ ReactDOM.render(
                         <Route path='/AluServiceHulianwang' component={AluServiceHulianwang}></Route>
                     </Route>
 
-                    <Route path='//Home#media' component={MediaCoverage}></Route>
+                    <Route path='/copyRight' component={CopyRight}></Route>
 
                     <Route path='/OnlineBooking' component={OnlineBooking}></Route>
 
