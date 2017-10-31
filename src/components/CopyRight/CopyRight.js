@@ -7,7 +7,7 @@ class CopyRight extends Component {
         return (
             <div className='homeWrap' style={{minWidth:'1200px',textAlign:'center'}}>
                 <div id='copy'></div>
-                <img style={{marginTop:'82px'}} src={copyRight} width='1120px' height='970px' alt=""/>
+                <img style={{paddingTop:'82px'}} src={copyRight} width='1120px' height='970px' alt=""/>
             </div>
         );
     }

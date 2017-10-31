@@ -10,7 +10,7 @@ import './about.css'
 class AboutUs extends Component {
     render() {
         return (
-            <div id='aboutUs' style={{position:'relative',backgroundColor:'#F6F6F6',minWidth:'1200px',marginTop:'82px'}}>
+            <div id='aboutUs' style={{position:'relative',backgroundColor:'#F6F6F6',minWidth:'1200px',paddingTop:'82px'}}>
                 <img width={'100%'} src={aboutTitle} alt=""/>
                 <div style={{marginTop:'-100px',marginLeft:"15%"}}>
                         <div><img src={aboutUs} width='160px' height='134px' alt=""/></div>

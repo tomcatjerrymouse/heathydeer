@@ -45,8 +45,8 @@ class HomePage extends Component {
     }
     render() {
         return (
-            <div className='homeWrap' style={{minWidth:'1200px',marginTop:'82px'}}>
-                <div id='home'></div>
+            <div id='home' className='homeWrap' style={{minWidth:'1200px',paddingTop:'82px'}}>
+                <div></div>
                 <img style={{position:'absolute',top:'16%',left:'63%',zIndex:'999'}} src={banner} width='270px' height='331px' alt=""/>
                 <Carousel autoplay >
                             <div className="carousel"><img src={carousel_1} style={{width:'100%'}} alt=""/></div>
