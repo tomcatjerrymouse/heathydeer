@@ -39,7 +39,9 @@ class HomePage extends Component {
             if (anchorName) {
                 let anchorElement = document.getElementById(anchorName);
                 console.log(anchorElement)
-                if(anchorElement) { anchorElement.scrollIntoView(); }
+                if(anchorElement) {
+                    anchorElement.scrollIntoView(false);
+                }
             }
         },10)
     }
@@ -47,7 +49,7 @@ class HomePage extends Component {
         return (
             <div id='home' className='homeWrap' style={{minWidth:'1200px',paddingTop:'82px'}}>
                 <div></div>
-                <img style={{position:'absolute',top:'16%',left:'63%',zIndex:'999'}} src={banner} width='270px' height='331px' alt=""/>
+                <img style={{position:'absolute',top:'4.5%',left:'63%',zIndex:'999'}} src={banner} width='270px' height='331px' alt=""/>
                 <Carousel autoplay >
                             <div className="carousel"><img src={carousel_1} style={{width:'100%'}} alt=""/></div>
                             <div className="carousel"><img src={carousel_2} style={{width:'100%'}} alt=""/></div>
@@ -74,7 +76,7 @@ class HomePage extends Component {
                     </div>
                 </div>
                 <div id="media" className='mediaWrap'>
-                    <div style={{paddingTop:'82px'}}><img src={media} width='274px' height='79px' alt=""/></div>
+                    <div style={{paddingTop:'100px'}}><img src={media} width='274px' height='79px' alt=""/></div>
                     <ul>
                         <li className='media' style={{display:'inline-block'}}><a target='blank' href="http://dl.cnr.cn/tnhb/20171020/t20171020_523994483.shtml"><img src={news1} width='346px' height='346px' alt=""/></a></li>
                         <li className='media' style={{display:'inline-block'}}><a target='blank' href="http://economy.gmw.cn/2017-10/20/content_26559872.htm"><img src={news2} width='346px' height='346px' alt=""/></a></li>
@@ -84,7 +86,7 @@ class HomePage extends Component {
                 <div ><img width={'100%'} src={map} alt=""/></div>
                 <div style={{width:'100%',height:'800px',textAlign:'center'}}>
                     <div style={{marginTop:"50px"}}><img src={cooperation} width='1116px' height='231px' alt=""/></div>
-                    <div style={{marginTop:"20px",marginBottom:'20px'}}><img src={cooperation2} width='1116px' height='134px' alt=""/></div>
+                    <div style={{marginTop:"80px",marginBottom:'80px'}}><img src={cooperation2} width='1116px' height='134px' alt=""/></div>
                     <div><img src={cooperation3} width='1116px' height='136px' alt=""/></div>
                 </div>
             </div>

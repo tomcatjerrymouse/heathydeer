@@ -13,7 +13,9 @@ class Header extends Component {
                 if (anchorName) {
                     let anchorElement = document.getElementById(anchorName);
                     console.log(anchorElement)
-                    if(anchorElement) { anchorElement.scrollIntoView(); }
+                    if(anchorElement) {
+                        anchorElement.scrollIntoView();
+                    }
                 }
             },1)
         }
@@ -30,7 +32,7 @@ class Header extends Component {
                             <li className='li'><Link onClick={()=>this.scrollToAnchor('home')} className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/Home'>首页</Link></li>
                             <li className='li'><Link onClick={()=>this.scrollToAnchor('service')} className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/AluService'>阿鹿服务</Link></li>
                             <li className='li'><Link onClick={()=>this.scrollToAnchor('online')} className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/OnlineBooking'>在线预约</Link></li>
-                            <Link className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/Home#media'><li className='li' onClick={()=>this.scrollToAnchor('media')}>媒体报道</li></Link>
+                            <li className='li'><Link onClick={()=>this.scrollToAnchor('media')} className="start" activeStyle={{textDecoration: 'none'}} to='/Home#media'>媒体报道</Link></li>
                             <li className='li'><Link onClick={()=>this.scrollToAnchor('aboutUs')} className="start" activeStyle={{textDecoration: 'none'}} activeClassName='underline' to='/AboutUs'>关于我们</Link></li>
                         </ul>
                     </div>
