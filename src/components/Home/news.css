@@ -1,3 +1,116 @@
+.more{
+    font-size: 12px;
+    color: #4F99D2;
+    letter-spacing: 0;
+}
+.more1{
+    position: relative;
+    left: 132px;
+    bottom: 34px;
+}
+.more2{
+    position: relative;
+    left: 132px;
+    bottom: 34px;
+}
+.more3{
+    position: relative;
+    left: 132px;
+    bottom: 34px;
+}
+.sub1{
+    position: relative;
+    left: 25px;
+    bottom: 10px;
+    width: 47px;
+    height:29px ;
+}
+.sub2{
+    position: relative;
+    left: 28px;
+    bottom: 10px;
+    width: 64px;
+    height:25px;
+}
+.sub3{
+    position: relative;
+    left: 25px;
+    bottom: 10px;
+    width: 73px;
+    height:20px ;
+}
+.wenzTitle{
+    font-size:15px;
+    color: #333333;
+    letter-spacing:0;
+    line-height:21px;
+    margin-left:10px;
+    margin-top:16px;
+}
+.wenzContent{
+    width: 315px;
+    height: 61px;
+    font-size: 13px;
+    color: #888888;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-top:9px;
+}
+.wenzContent1{
+    margin-left:21px;
+}
+.wenzContent2{
+    margin-left:16px;
+}
+.wenzContent3{
+    margin-left:8px;
+}
+.news{
+    position: relative;
+    width: 1120px;
+    height: 346px;
+    margin: 0 auto;
+}
+.new1:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+.new2:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+.new3:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+
+.new1{
+    position: absolute;
+    left: 0;
+    top: 0;
+    transition: .5s;
+}
+.new2{
+    transition: .5s;
+}
+.new3{
+    position: absolute;
+    right: 0;
+    top: 0;
+    transition: .5s;
+}
+.new{
+    width: 346px;
+    height: 346px;
+    display: inline-block;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 1px 1px rgba(0,0,0,0.1) ;
+}
+.newsWenz{
+    width: 346px;
+    height: 146px;
+}
 .mediaWrap{
     position:relative;
     width:100%;
@@ -5,6 +118,14 @@
     background-color:#EDF5FC;
     text-align: center;
     min-width: 1200px;
+    padding-top: 82px;
+}
+.mediaAluTitle{
+    width: 274px;
+    height: 79px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 37px;
 }
 .media{
     transition: .5s;

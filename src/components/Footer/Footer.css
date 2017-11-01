@@ -22,7 +22,7 @@
 .line{
     display: inline-block;
     width: 64px;
-    height: 2px;
+    height: 1px;
     opacity: 0.6;
     background: #FFFFFF;
     border-radius: 100px;
@@ -57,7 +57,7 @@
     top:60px;
     display: inline-block;
     background: #59646D;
-    width: 2px;
+    width: 1px;
     height: 100px;
 }
 .blackLineS2{
@@ -66,7 +66,7 @@
     top:60px;
     display: inline-block;
     background: #59646D;
-    width: 2px;
+    width: 1px;
     height: 100px;
 }
 .friendshipLink{

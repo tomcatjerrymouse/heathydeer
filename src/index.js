@@ -5,7 +5,6 @@ import {Router, Route, hashHistory, IndexRoute,IndexRedirect} from 'react-router
 import Home from './components/Home/HomePage'
 import AluService from './components/AluService/AluService'
 import CopyRight from './components/CopyRight/CopyRight'
-import MediaCoverage from './components/CopyRight/CopyRight'
 import OnlineBooking from './components/OnlineBooking/OnlineBooking'
 import AboutUs from './components/AboutUs/AboutUs'
 import AluServiceMenzhen from './components/AluService/AluServiceMenzhen'

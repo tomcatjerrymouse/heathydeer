@@ -5,9 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02d88fa9-e8c8-4f91-aca8-d2ada13d6786" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Home/aluServers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Home/banner/banner3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Home/banner/wenz1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Home/banner/wenz2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Home/media.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/16sucai_2016052117_10011 (3).png" afterPath="$PROJECT_DIR$/src/components/AboutUs/16sucai_2016052117_10011 (3).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 10.png" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 7.png" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 8.png" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 9.png" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/aboutTitle.png" afterPath="$PROJECT_DIR$/src/components/AboutUs/aboutTitle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/aboutUs.png" afterPath="$PROJECT_DIR$/src/components/AboutUs/aboutUs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/16sucai_2016052117_10011 (1).png" afterPath="$PROJECT_DIR$/src/components/AluService/16sucai_2016052117_10011 (1).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/Group 31.png" afterPath="$PROJECT_DIR$/src/components/AluService/Group 31.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/Group 32.png" afterPath="$PROJECT_DIR$/src/components/AluService/Group 32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/Group 33.png" afterPath="$PROJECT_DIR$/src/components/AluService/Group 33.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/CopyRight/copyRight.png" afterPath="$PROJECT_DIR$/src/components/CopyRight/copyRight.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Footer/erweima.png" afterPath="$PROJECT_DIR$/src/components/Footer/erweima.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Footer/kexue.png" afterPath="$PROJECT_DIR$/src/components/Footer/kexue.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Footer/lianheguo.png" afterPath="$PROJECT_DIR$/src/components/Footer/lianheguo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Footer/weishen.png" afterPath="$PROJECT_DIR$/src/components/Footer/weishen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Footer/yinguo.png" afterPath="$PROJECT_DIR$/src/components/Footer/yinguo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Footer/zhongyi.png" afterPath="$PROJECT_DIR$/src/components/Footer/zhongyi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Header/logo.png" afterPath="$PROJECT_DIR$/src/components/Header/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/Internet.png" afterPath="$PROJECT_DIR$/src/components/Home/Internet.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/Member.png" afterPath="$PROJECT_DIR$/src/components/Home/Member.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/Outpatient.png" afterPath="$PROJECT_DIR$/src/components/Home/Outpatient.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/banner/banner1.png" afterPath="$PROJECT_DIR$/src/components/Home/banner/banner1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/banner/banner2.png" afterPath="$PROJECT_DIR$/src/components/Home/banner/banner2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/cooperation.png" afterPath="$PROJECT_DIR$/src/components/Home/cooperation.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/cooperation2.png" afterPath="$PROJECT_DIR$/src/components/Home/cooperation2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/cooperation3.png" afterPath="$PROJECT_DIR$/src/components/Home/cooperation3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/hezuo.png" afterPath="$PROJECT_DIR$/src/components/Home/hezuo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/huiyuan.png" afterPath="$PROJECT_DIR$/src/components/Home/huiyuan.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/hulianwang.png" afterPath="$PROJECT_DIR$/src/components/Home/hulianwang.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/map.png" afterPath="$PROJECT_DIR$/src/components/Home/map.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/menzhen.png" afterPath="$PROJECT_DIR$/src/components/Home/menzhen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/news1.png" afterPath="$PROJECT_DIR$/src/components/Home/news1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/news2.png" afterPath="$PROJECT_DIR$/src/components/Home/news2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/news3.png" afterPath="$PROJECT_DIR$/src/components/Home/news3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/technology.png" afterPath="$PROJECT_DIR$/src/components/Home/technology.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/OnlineBooking/online.png" afterPath="$PROJECT_DIR$/src/components/OnlineBooking/online.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Header/Header.js" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/AluServiceMenzhen.js" afterPath="$PROJECT_DIR$/src/components/AluService/AluServiceMenzhen.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/aluService.css" afterPath="$PROJECT_DIR$/src/components/AluService/aluService.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Footer/Footer.css" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/HomePage.js" afterPath="$PROJECT_DIR$/src/components/Home/HomePage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/homePage.css" afterPath="$PROJECT_DIR$/src/components/Home/homePage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/news.css" afterPath="$PROJECT_DIR$/src/components/Home/news.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,24 +68,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HomePage.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HomePage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Home/HomePage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="78" column="48" lean-forward="false" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
+            <state relative-caret-position="397">
+              <caret line="131" column="24" lean-forward="false" selection-start-line="131" selection-start-column="24" selection-end-line="131" selection-end-column="24" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#916#1277#0" expanded="false" />
+                <element signature="e#1421#2609#0" expanded="false" />
+                <element signature="e#1653#2586#0" expanded="false" />
+                <element signature="e#2626#2902#0" expanded="false" />
+                <element signature="e#2969#3329#0" expanded="false" />
+                <element signature="e#3350#4311#0" expanded="false" />
+                <element signature="e#3403#3715#0" expanded="false" />
+                <element signature="e#3740#3997#0" expanded="false" />
+                <element signature="e#4022#4284#0" expanded="false" />
+                <element signature="e#4410#4767#0" expanded="false" />
+                <element signature="e#5833#6805#0" expanded="false" />
+                <element signature="e#6830#7853#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Header.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Header/Header.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -46,8 +95,50 @@
       <file leaf-file-name="news.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Home/news.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="195">
+              <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Footer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Footer/Footer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="75" column="36" lean-forward="true" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homePage.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Home/homePage.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="120" column="18" lean-forward="false" selection-start-line="118" selection-start-column="4" selection-end-line="120" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Footer.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Footer/Footer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="68" column="12" lean-forward="false" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -76,6 +167,14 @@
       <find>3000</find>
       <find>mediaWrap</find>
       <find>banner</find>
+      <find>bgImg</find>
+      <find>aluServers</find>
+      <find>serviceWrap</find>
+      <find>aluServersTitle</find>
+      <find>sub</find>
+      <find>new</find>
+      <find>sub3</find>
+      <find>blackLineS2</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -87,7 +186,6 @@
         <option value="$PROJECT_DIR$/config-overrides.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/components/Home/news/news.js" />
-        <option value="$PROJECT_DIR$/src/components/AluService/aluService.css" />
         <option value="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/brand.js" />
         <option value="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/recruit.js" />
         <option value="$PROJECT_DIR$/src/components/AboutUs/about.css" />
@@ -95,13 +193,8 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/Home/news/News.js" />
         <option value="$PROJECT_DIR$/src/components/Home/news/news.css" />
-        <option value="$PROJECT_DIR$/src/components/Home/homePage.css" />
         <option value="$PROJECT_DIR$/src/components/OnlineBooking/online.css" />
-        <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Footer/Footer.css" />
         <option value="$PROJECT_DIR$/src/components/Header/Header.css" />
-        <option value="$PROJECT_DIR$/src/components/AluService/AluServiceMenzhen.js" />
         <option value="$PROJECT_DIR$/src/components/AluService/AluServiceHuiyuan.js" />
         <option value="$PROJECT_DIR$/src/components/AluService/AluServiceHulianwang.js" />
         <option value="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Dot.js" />
@@ -116,7 +209,14 @@
         <option value="$PROJECT_DIR$/src/components/AluService/AluService.js" />
         <option value="$PROJECT_DIR$/src/components/CopyRight/CopyRight.js" />
         <option value="$PROJECT_DIR$/src/components/Header/Header.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/components/AluService/AluServiceMenzhen.js" />
+        <option value="$PROJECT_DIR$/src/components/AluService/aluService.css" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/src/components/Home/homePage.css" />
         <option value="$PROJECT_DIR$/src/components/Home/HomePage.js" />
+        <option value="$PROJECT_DIR$/src/components/Home/news.css" />
+        <option value="$PROJECT_DIR$/src/components/Footer/Footer.css" />
       </list>
     </option>
   </component>
@@ -138,10 +238,10 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="145" />
-    <option name="y" value="23" />
-    <option name="width" value="1382" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="316" />
+    <option name="y" value="100" />
+    <option name="width" value="1514" />
     <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -187,7 +287,7 @@
               <item name="heathydeer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Header" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,19 +307,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components/AboutUs" />
-      <recent name="$PROJECT_DIR$/src/components/AluService" />
-      <recent name="$PROJECT_DIR$/src/components/Footer" />
-      <recent name="$PROJECT_DIR$/src/components/CopyRight" />
-      <recent name="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/Home" />
       <recent name="$PROJECT_DIR$/src/components/MediaCoverage" />
       <recent name="G:\heathydeer\src\components\AboutUs\AboutUSContent" />
       <recent name="G:\heathydeer\src\components\AboutUs" />
       <recent name="G:\heathydeer\src\components\AluService" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Home" />
+      <recent name="$PROJECT_DIR$/src/components/Home/banner" />
+      <recent name="$PROJECT_DIR$/src/components/Footer" />
+      <recent name="$PROJECT_DIR$/src/components/OnlineBooking" />
+      <recent name="$PROJECT_DIR$/src/components/Header" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -319,25 +419,24 @@
       <workItem from="1509337436980" duration="2395000" />
       <workItem from="1509342348217" duration="19804000" />
       <workItem from="1509412096550" duration="24363000" />
-      <workItem from="1509448461987" duration="6045000" />
+      <workItem from="1509448461987" duration="27362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107179000" />
+    <option name="totallyTimeSpent" value="128496000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="945" extended-state="0" />
-    <editor active="true" />
+    <frame x="316" y="100" width="1514" height="800" extended-state="1" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18324292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20361687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23050459" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24539007" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -357,35 +456,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/Home/news/news.css" />
-    <entry file="file://$PROJECT_DIR$/src/components/Home/news1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Home/news/News.js" />
-    <entry file="file://$PROJECT_DIR$/src/components/OnlineBooking/online.css" />
-    <entry file="file://$PROJECT_DIR$/test.html" />
-    <entry file="file://$PROJECT_DIR$/src/components/Home/aluServers.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Home/hulianwang.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Home/huiyuan.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Home/menzhen.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -416,11 +491,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/AluService/16sucai_2016052117_10011 (1).png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/AluService/Group 31.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -441,27 +511,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 10.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Footer/Footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/AluService/AluServiceMenzhen.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/AluService/AluServiceHuiyuan.js">
@@ -493,14 +549,6 @@
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -608,14 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/AluService/AluService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="63" lean-forward="false" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CopyRight/CopyRight.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -648,45 +688,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Footer/Footer.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="72" column="70" lean-forward="true" selection-start-line="72" selection-start-column="70" selection-end-line="72" selection-end-column="70" />
+        <state relative-caret-position="476">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AluService/AluService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="63" lean-forward="false" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AluService/aluService.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AluService/AluServiceMenzhen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home/banner/banner3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/OnlineBooking/online.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home/aluServers.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home/map.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AluService/16sucai_2016052117_10011 (1).png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home/news1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home/news1Sub.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Home/homePage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Home/news.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        <state relative-caret-position="196">
+          <caret line="120" column="18" lean-forward="false" selection-start-line="118" selection-start-column="4" selection-end-line="120" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Home/HomePage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="78" column="48" lean-forward="false" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
+        <state relative-caret-position="397">
+          <caret line="131" column="24" lean-forward="false" selection-start-line="131" selection-start-column="24" selection-end-line="131" selection-end-column="24" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#916#1277#0" expanded="false" />
+            <element signature="e#1421#2609#0" expanded="false" />
+            <element signature="e#1653#2586#0" expanded="false" />
+            <element signature="e#2626#2902#0" expanded="false" />
+            <element signature="e#2969#3329#0" expanded="false" />
+            <element signature="e#3350#4311#0" expanded="false" />
+            <element signature="e#3403#3715#0" expanded="false" />
+            <element signature="e#3740#3997#0" expanded="false" />
+            <element signature="e#4022#4284#0" expanded="false" />
+            <element signature="e#4410#4767#0" expanded="false" />
+            <element signature="e#5833#6805#0" expanded="false" />
+            <element signature="e#6830#7853#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home/news.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Footer/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="75" column="36" lean-forward="true" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Footer/Footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="68" column="12" lean-forward="false" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>

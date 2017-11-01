@@ -10,11 +10,11 @@ import './news.css'
 import news1 from './news1.png'
 import news2 from './news2.png'
 import news3 from './news3.png'
-import media from './media.png'
+import sub1 from './news1Sub.png'
+import sub2 from './news2Sub.png'
+import sub3 from './news3Sub.png'
 import carousel_1 from './banner/banner1.png'
 import carousel_2 from './banner/banner2.png'
-import banner from './banner/banner3.png'
-import aluServers from './aluServers.png'
 import menzhen from './menzhen.png'
 import huiyuan from './huiyuan.png'
 import hulianwang from './hulianwang.png'
@@ -27,12 +27,7 @@ import cooperation2 from './cooperation2.png'
 import cooperation3 from './cooperation3.png'
 
 class HomePage extends Component {
-    constructor (props) {
-        super(props)
-        this.state={
-            id:'map'
-        }
-    }
+
     scrollToAnchor = (anchorName) => {
         setTimeout(function () {
             console.log(anchorName)
@@ -48,45 +43,118 @@ class HomePage extends Component {
     render() {
         return (
             <div id='home' className='homeWrap' style={{minWidth:'1200px',paddingTop:'82px'}}>
-                <div></div>
-                <img style={{position:'absolute',top:'4.5%',left:'63%',zIndex:'999'}} src={banner} width='270px' height='331px' alt=""/>
+                <div className='banner'>
+                    <div className='bannerHeader'>
+                        <p className='p1'>健康阿鹿</p>
+                        <p className='p2'>开创专家合伙制共享诊所</p>
+                    </div>
+                    <div className='bannerContent'>
+                        <div className='fast'>
+                            <div className='ball'>快</div>
+                            <p className='bannerContentWenzi fastWenzi'>一键预约，定时看诊无需等待，<br/>
+                                省时更省心</p>
+                        </div>
+                        <div className="line2"></div>
+                        <div className='save'>
+                            <div className='ball'>省</div>
+                            <p className='bannerContentWenzi saveWenzi'>医保定点，支付便捷就医更省</p>
+                        </div>
+                        <div className="line3"></div>
+                        <div className='quality'>
+                            <div className='ball'>质</div>
+                            <p className='bannerContentWenzi fastWenzi'>名医坐诊，享受高质、高效的<br/>
+                                诊疗服务</p>
+                        </div>
+                    </div>
+                </div>
                 <Carousel autoplay >
                             <div className="carousel"><img src={carousel_1} style={{width:'100%'}} alt=""/></div>
                             <div className="carousel"><img src={carousel_2} style={{width:'100%'}} alt=""/></div>
-                           {/* <div className="carousel"><img src={carousel_1} style={{width:'100%'}} alt=""/></div>
-                            <div className="carousel"><img src={carousel_2} style={{width:'100%'}} alt=""/></div>*/}
                 </Carousel>
                 <div className="serviceWrap">
-                    <div style={{textAlign:"center",marginTop:'50px',marginBottom:"80px"}}>
-                        <img src={aluServers} width='287px' height='79px' alt=""/>
+                    <div className='aluServersTitle'>
+                        <p style={{fontSize:'26px',color:'#424242',letterSpacing:'0'}}>阿鹿健康</p>
+                        <p style={{fontSize:'13px',color:'#666666',letterSpacing:'0',marginTop:'4px',marginBottom:'18px'}}>以患者为亲人，提供安心、放心、省心的健康服务</p>
+                        <div className='line4'></div>
                     </div>
-                    <div style={{textAlign:"center"}}>
-                        <div className="show1" style={{display:'inline-block',marginRight: '-3px'}}>
-                            <div onClick={()=>this.scrollToAnchor('menzhen')} style={{display:'inline-block',marginRight: '-3px'}} className="show1"><Link to='/AluServiceMenzhen'><img src={menzhen} width='373px' height='240px' alt=""/></Link></div>
-                            <div onClick={()=>this.scrollToAnchor('menzhen')} className="blue hide1"><Link to='/AluServiceMenzhen'><img src={outPatient} width='332px' height='170px' alt=""/></Link></div>
+                    <div className='aluServers'>
+                        <div className='effects'>
+                            <Link to='/AluService'><img src={menzhen} width='373px' height='240px' alt=""/></Link>
+                            <Link to='/AluService'><img className='imgEffects' src={outPatient} width='332px' height='170px' alt=""/></Link>
                         </div>
-                        <div className="show2" style={{display:'inline-block',marginRight: '-3px'}}>
-                            <div onClick={()=>this.scrollToAnchor('huiyuna')} style={{display:'inline-block',marginRight: '-3px'}} className="show2"><Link to='/AluServiceHuiyuan'><img src={huiyuan} width='373px' height='240px' alt=""/></Link></div>
-                            <div onClick={()=>this.scrollToAnchor('huiyuna')} className="blue hide2"><Link to='/AluServiceHuiyuan'><img src={member} width='332px' height='170px' alt=""/></Link></div>
+                        <div className='effects effects2'>
+                            <img src={huiyuan} width='373px' height='240px' alt=""/>
+                            <img className='imgEffects' src={member} width='332px' height='170px' alt=""/>
                         </div>
-                        <div className="show3" style={{display:'inline-block',marginRight: '-3px'}}>
-                            <div onClick={()=>this.scrollToAnchor('hulianwang')} style={{display:'inline-block',marginRight: '-3px'}} className="show3"><Link to='/AluServiceHulianwang'><img src={hulianwang} width='373px' height='240px' alt=""/></Link></div>
-                            <div onClick={()=>this.scrollToAnchor('hulianwang')} className="blue hide3"><Link to='/AluServiceHulianwang'><img src={internet} width='332px' height='170px' alt=""/></Link></div>
+                        <div className='effects effects2'>
+                            <img src={hulianwang} width='373px' height='240px' alt=""/>
+                            <img className='imgEffects' src={internet} width='332px' height='170px' alt=""/>
                         </div>
                     </div>
                 </div>
                 <div id="media" className='mediaWrap'>
-                    <div style={{paddingTop:'100px'}}><img src={media} width='274px' height='79px' alt=""/></div>
-                    <ul>
-                        <li className='media' style={{display:'inline-block'}}><a target='blank' href="http://dl.cnr.cn/tnhb/20171020/t20171020_523994483.shtml"><img src={news1} width='346px' height='346px' alt=""/></a></li>
-                        <li className='media' style={{display:'inline-block'}}><a target='blank' href="http://economy.gmw.cn/2017-10/20/content_26559872.htm"><img src={news2} width='346px' height='346px' alt=""/></a></li>
-                        <li className='media' style={{display:'inline-block'}}><a target='blank' href="https://mp.weixin.qq.com/s/zUcSGiwfHbTdXPNpgQwa3A"><img src={news3} width='346px' height='346px' alt=""/></a></li>
-                    </ul>
+                    <div className='mediaAluTitle'>
+                        <p style={{fontSize:'26px',color:'#424242',letterSpacing:'0'}}>媒体报道</p>
+                        <p style={{fontSize:'13px',color:'#666666',letterSpacing:'0',marginTop:'4px',marginBottom:'18px'}}>您可以通过以下新闻和公司动态进一步了解我们</p>
+                        <div className='line4'></div>
+                    </div>
+                    <div className="news">
+                        <a target='blank' href="http://dl.cnr.cn/tnhb/20171020/t20171020_523994483.shtml">
+                            <div className='new new1'>
+                                <img src={news1} width='346px' height='200px' alt=""/>
+                                <div className='newsWenz'>
+                                    <p className="wenzTitle">健康阿鹿连锁诊所携手四川省第二中医院共…</p>
+                                    <div className='wenzContent wenzContent1'>
+                                        &nbsp;&nbsp;2017年10月17日下午，健康阿鹿连锁诊所与四川省第<br/>二中医医院医联体战略合作签约授牌仪式在成都新…
+                                    </div>
+                                    <div className='sub1'>
+                                        <img src={sub1} width='47px' height='29px' alt=""/>
+                                    </div>
+                                    <div className='more more1'>more +</div>
+                                </div>
+                            </div>
+                        </a>
+                        <a target='blank' href="http://economy.gmw.cn/2017-10/20/content_26559872.htm">
+                            <div className='new new2'>
+                                <img src={news2} width='346px' height='200px' alt=""/>
+                                <div className='newsWenz'>
+                                    <p className="wenzTitle">共享诊所：以互联网+智慧医疗应用平台创…</p>
+                                    <div className='wenzContent wenzContent2'>
+                                        &nbsp;&nbsp;&nbsp;&nbsp;共享诊所模式，是为诊所和专家搭建一个共享诊室空间、共享经营收益、共享品牌发展的多赢良好平…
+                                    </div>
+                                    <div className='sub2'>
+                                        <img src={sub2} width='64px' height='25px' alt=""/>
+                                    </div>
+                                    <div className='more more2'>more +</div>
+                                </div>
+                            </div>
+                        </a>
+                        <a target='blank' href="https://mp.weixin.qq.com/s/zUcSGiwfHbTdXPNpgQwa3A">
+                            <div className='new new3'>
+                                <img src={news3} width='346px' height='200px' alt=""/>
+                                <div className='newsWenz'>
+                                    <p className="wenzTitle">喜讯！四川省中医院张永华教授专家工作室…</p>
+                                    <div className='wenzContent wenzContent3'>
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017年10月20日下午，成都中医药大学附属医院泌
+                                        尿外科张永华教授专家工作室在健康阿鹿连锁…
+                                    </div>
+                                    <div className='sub3'>
+                                        <img src={sub3} width='73px' height='20px' alt=""/>
+                                    </div>
+                                    <div className='more more3'>more +</div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
                 </div>
-                <div ><img width={'100%'} src={map} alt=""/></div>
-                <div style={{width:'100%',height:'800px',textAlign:'center'}}>
-                    <div style={{marginTop:"50px"}}><img src={cooperation} width='1116px' height='231px' alt=""/></div>
-                    <div style={{marginTop:"80px",marginBottom:'80px'}}><img src={cooperation2} width='1116px' height='134px' alt=""/></div>
+                <div className='mapWrap'>
+                    <div className='map'>
+                        <img src={map} width='1013px' height='710px' alt=""/>
+                    </div>
+                </div>
+                <div style={{width:'100%',height:'717px',textAlign:'center'}}>
+                    <div style={{marginTop:"56px"}}><img src={cooperation} width='1116px' height='231px' alt=""/></div>
+                    <div style={{marginTop:"50px",marginBottom:'50px'}}><img src={cooperation2} width='1116px' height='134px' alt=""/></div>
                     <div><img src={cooperation3} width='1116px' height='136px' alt=""/></div>
                 </div>
             </div>
