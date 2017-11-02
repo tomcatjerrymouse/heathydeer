@@ -56,7 +56,7 @@ class Footer extends Component {
                             <div className='line'></div>
                             <ul className='ul'>
                                 <Link activeStyle={{textDecoration:'none'}} to='/Brand'><li className="lies" onClick={()=>this.scrollToAnchor('brand')}>品牌介绍</li></Link>
-                                <Link activeStyle={{textDecoration:'none'}} to='/Dot'><li className="lies" onClick={()=>this.scrollToAnchor('dot')}>网店分布</li></Link>
+                                <Link activeStyle={{textDecoration:'none'}} to='/Dot'><li className="lies" onClick={()=>this.scrollToAnchor('dot')}>网点分布</li></Link>
                                 <Link activeStyle={{textDecoration:'none'}} to='/Recruit'><li className="lies" onClick={()=>this.scrollToAnchor('recruit')}>专家招募</li></Link>
                                 <Link activeStyle={{textDecoration:'none'}} to='/ContactUS'><li className="lies" onClick={()=>this.scrollToAnchor('contactUS')}>联系我们</li></Link>
                             </ul>

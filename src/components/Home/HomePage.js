@@ -35,7 +35,7 @@ class HomePage extends Component {
                 let anchorElement = document.getElementById(anchorName);
                 console.log(anchorElement)
                 if(anchorElement) {
-                    anchorElement.scrollIntoView(false);
+                    anchorElement.scrollIntoView();
                 }
             }
         },10)
@@ -78,18 +78,24 @@ class HomePage extends Component {
                         <div className='line4'></div>
                     </div>
                     <div className='aluServers'>
-                        <div className='effects'>
-                            <Link to='/AluService'><img src={menzhen} width='373px' height='240px' alt=""/></Link>
-                            <Link to='/AluService'><img className='imgEffects' src={outPatient} width='332px' height='170px' alt=""/></Link>
-                        </div>
-                        <div className='effects effects2'>
-                            <img src={huiyuan} width='373px' height='240px' alt=""/>
-                            <img className='imgEffects' src={member} width='332px' height='170px' alt=""/>
-                        </div>
-                        <div className='effects effects2'>
-                            <img src={hulianwang} width='373px' height='240px' alt=""/>
-                            <img className='imgEffects' src={internet} width='332px' height='170px' alt=""/>
-                        </div>
+                        <Link onClick={()=>this.scrollToAnchor('menzhen')} to='/AluService'>
+                            <div className='effects'>
+                                <img onClick={()=>this.scrollToAnchor('menzhen')} src={menzhen} width='373px' height='240px' alt=""/>
+                                <img onClick={()=>this.scrollToAnchor('menzhen')} className='imgEffects' src={outPatient} width='332px' height='170px' alt=""/>
+                            </div>
+                        </Link>
+                        <Link onClick={()=>this.scrollToAnchor('huiyuna')} to='/AluService'>
+                            <div className='effects effects2'>
+                                <img src={huiyuan} width='373px' height='240px' alt=""/>
+                                <img className='imgEffects' src={member} width='332px' height='170px' alt=""/>
+                            </div>
+                        </Link>
+                        <Link onClick={()=>this.scrollToAnchor('hulianwang')} to='/AluService'>
+                            <div className='effects effects2'>
+                                <img src={hulianwang} width='373px' height='240px' alt=""/>
+                                <img className='imgEffects' src={internet} width='332px' height='170px' alt=""/>
+                            </div>
+                        </Link>
                     </div>
                 </div>
                 <div id="media" className='mediaWrap'>
@@ -105,7 +111,7 @@ class HomePage extends Component {
                                 <div className='newsWenz'>
                                     <p className="wenzTitle">健康阿鹿连锁诊所携手四川省第二中医院共…</p>
                                     <div className='wenzContent wenzContent1'>
-                                        &nbsp;&nbsp;2017年10月17日下午，健康阿鹿连锁诊所与四川省第<br/>二中医医院医联体战略合作签约授牌仪式在成都新…
+                                        2017年10月17日下午，健康阿鹿连锁诊所与四川省第二中医医院医联体战略合作签约授牌仪式在成都新…
                                     </div>
                                     <div className='sub1'>
                                         <img src={sub1} width='47px' height='29px' alt=""/>
@@ -120,7 +126,7 @@ class HomePage extends Component {
                                 <div className='newsWenz'>
                                     <p className="wenzTitle">共享诊所：以互联网+智慧医疗应用平台创…</p>
                                     <div className='wenzContent wenzContent2'>
-                                        &nbsp;&nbsp;&nbsp;&nbsp;共享诊所模式，是为诊所和专家搭建一个共享诊室空间、共享经营收益、共享品牌发展的多赢良好平…
+                                        共享诊所模式，是为诊所和专家搭建一个共享诊室空间、共享经营收益、共享品牌发展的多赢良好平…
                                     </div>
                                     <div className='sub2'>
                                         <img src={sub2} width='64px' height='25px' alt=""/>
@@ -135,8 +141,7 @@ class HomePage extends Component {
                                 <div className='newsWenz'>
                                     <p className="wenzTitle">喜讯！四川省中医院张永华教授专家工作室…</p>
                                     <div className='wenzContent wenzContent3'>
-                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017年10月20日下午，成都中医药大学附属医院泌
-                                        尿外科张永华教授专家工作室在健康阿鹿连锁…
+                                       2017年10月20日下午，成都中医药大学附属医院泌尿外科张永华教授专家工作室在健康阿鹿连锁…
                                     </div>
                                     <div className='sub3'>
                                         <img src={sub3} width='73px' height='20px' alt=""/>
@@ -148,8 +153,27 @@ class HomePage extends Component {
                     </div>
                 </div>
                 <div className='mapWrap'>
-                    <div className='map'>
-                        <img src={map} width='1013px' height='710px' alt=""/>
+                    <div className='mapBG'></div>
+                    <div className="map">
+                        <div className='mapTitle'>
+                            <p style={{fontSize:'26px',color:'#424242',letterSpacing:'0',lineHeight:'37px'}}>连锁网点</p>
+                            <p style={{marginBottom:'18px'}} className='bannerContentWenzi'>专家入驻，共建共享式诊所</p>
+                            <div className='line4'></div>
+                        </div>
+                        <div className='mpamWrap'>
+                            <div style={{width:'920px',height:'674px'}}>
+                                <img src={map} width='920px' height='674px' alt=""/>
+                            </div>
+                            <div className='mapIntroduce'>
+                                <div className="introduceContent">
+                                    <div className="small small1"></div>
+                                    <div className='smallContent'>
+                                        健康阿鹿诊所目前已吸引了全国各地专家入驻，以四川、山东、河南、黑龙江为首批主要入驻区域，逐步扩散至广东、福建、上海、浙江、云南等地区，最终扩散至全国。
+                                    </div>
+                                    <div className="small small2"></div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div style={{width:'100%',height:'717px',textAlign:'center'}}>

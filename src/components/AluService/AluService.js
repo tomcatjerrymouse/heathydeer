@@ -13,7 +13,8 @@ class AluService extends Component {
                 <div className="AluTitle"><img width="100%" height='100%' src={title} alt=""/></div>
                 <div id='menzhen'></div>
                 <AluServiceMenzhen></AluServiceMenzhen>
-                <div id='huiyuna'></div>
+                <div id='huiyuna' style={{height:'82px',backgroundColor:'#F6F6F6'}}></div>
+                <div ></div>
                 <AluServiceHuiyuan ></AluServiceHuiyuan>
                 <div id='hulianwang'></div>
                 <AluServiceHulianwang></AluServiceHulianwang>
