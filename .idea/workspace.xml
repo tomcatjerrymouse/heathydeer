@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02d88fa9-e8c8-4f91-aca8-d2ada13d6786" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 8.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 10.png" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 9.png" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Brand.js" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Brand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/ContactUS.js" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/ContactUS.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Dot.js" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Dot.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Recruit.js" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Recruit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUs.js" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/about.css" afterPath="$PROJECT_DIR$/src/components/AboutUs/about.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/AluServiceHulianwang.js" afterPath="$PROJECT_DIR$/src/components/AluService/AluServiceHulianwang.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Footer/Footer.css" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.html" afterPath="$PROJECT_DIR$/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/BaiduMap.js" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/BaiduMap.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,25 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Footer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Footer/Footer.js">
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="40" column="52" lean-forward="false" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="52" />
-              <folding>
-                <element signature="e#2174#2605#0" expanded="false" />
-                <element signature="e#2809#3546#0" expanded="false" />
-                <element signature="e#3799#4554#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Footer.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/Footer/Footer.css">
+      <file leaf-file-name="BaiduMap.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/BaiduMap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            <state relative-caret-position="135">
+              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -96,10 +78,10 @@
       <find>BMap</find>
       <find>usWrap</find>
       <find>click</find>
-      <find>navTitle</find>
       <find>lies</find>
       <find>xiaotupian</find>
       <find>navWrapSub</find>
+      <find>navTitle</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -138,12 +120,12 @@
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/ContactUS.js" />
-        <option value="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/BaiduMap.js" />
         <option value="$PROJECT_DIR$/src/components/AboutUs/about.css" />
         <option value="$PROJECT_DIR$/src/components/AboutUs/AboutUs.js" />
         <option value="$PROJECT_DIR$/src/components/AluService/AluServiceHulianwang.js" />
         <option value="$PROJECT_DIR$/src/components/AluService/aluService.css" />
         <option value="$PROJECT_DIR$/src/components/Footer/Footer.css" />
+        <option value="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/BaiduMap.js" />
       </list>
     </option>
   </component>
@@ -201,11 +183,6 @@
             <path>
               <item name="heathydeer" type="b2602c69:ProjectViewProjectNode" />
               <item name="heathydeer" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heathydeer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heathydeer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -219,7 +196,15 @@
               <item name="heathydeer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Footer" type="462c0819:PsiDirectoryNode" />
+              <item name="AboutUs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heathydeer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heathydeer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="AboutUs" type="462c0819:PsiDirectoryNode" />
+              <item name="AboutUSContent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -351,12 +336,12 @@
       <workItem from="1509337436980" duration="2395000" />
       <workItem from="1509342348217" duration="19804000" />
       <workItem from="1509412096550" duration="24363000" />
-      <workItem from="1509448461987" duration="73936000" />
+      <workItem from="1509448461987" duration="74248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175070000" />
+    <option name="totallyTimeSpent" value="175382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="221" y="23" width="1344" height="842" extended-state="0" />
@@ -673,26 +658,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/BaiduMap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
           <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="25" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -777,6 +746,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/BaiduMap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding />
         </state>
       </provider>
