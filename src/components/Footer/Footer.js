@@ -79,12 +79,19 @@ class Footer extends Component {
                     </div>
                     <div ></div>
                 </div>
-                <Link to='/copyRight'>
-                    <div onClick={()=>this.scrollToAnchor('copy')} className='copyRight'>
+
+                <div className='copy'>
+                    <div className='copyRight'>
+                        <Link to='/copyRight' activeStyle={{textDecoration:'none',color:'white'}} onClick={()=>this.scrollToAnchor('copy')}>Copyright © 2017 www.healthydeer.com 深圳健康阿鹿信息技术有限公司 All Rights Reserved.<br/>
+                        中华人民共和国互联网药品信息服务资格证书(粤）-非经营性-2017-0017</Link>
+                    </div>
+                </div>
+                {/*<Link to='/copyRight' activeStyle={{textDecoration:'none'}} onClick={()=>this.scrollToAnchor('copy')}>
+                    <div className='copyRight' style={{color:'white',width:'515px',margin:'0 auto'}}>
                         Copyright © 2017 www.healthydeer.com 深圳健康阿鹿信息技术有限公司 All Rights Reserved.<br/>
                         中华人民共和国互联网药品信息服务资格证书(粤）-非经营性-2017-0017
                     </div>
-                </Link>
+                </Link>*/}
             </div>
         );
     }
