@@ -1,0 +1,62 @@
+
+.dot{
+    height: 781px;
+}
+.common{
+    height: 624px;
+}
+.brandWenzi1{
+    font-size: 13px;
+    color: #666666;
+    line-height: 26px;
+    text-align: left;
+}
+.brandWenzi2{
+    font-size: 16px;
+    color: #333333;
+    line-height: 26px;
+    text-align: left;
+    margin-bottom: 8px;
+}
+.first{
+    width: 807px;
+    height: 78px;
+    margin-bottom: 37px;
+}
+.second{
+    width: 286px;
+    height: 52px;
+    margin-bottom: 37px;
+}
+.third{
+    width: 807px;
+    height: 108px;
+    margin-bottom: 37px;
+}
+.four{
+    width: 807px;
+    height: 52px;
+}
+.five{
+    width: 808px;
+    height: 70px;
+    margin-bottom: 14px;
+}
+.six{
+    width: 808px;
+    height: 52px;
+    margin-bottom: 28px;
+}
+.seven{
+    width: 297px;
+    height: 78px;
+}
+.eight{
+    width: 249px;
+    height: 90px;
+    text-align: left;
+    font-size: 13px;
+    color: #666666;
+    line-height: 30px;
+    margin-bottom: 26px;
+}

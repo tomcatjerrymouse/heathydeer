@@ -37,7 +37,7 @@ class AluServiceHulianwang extends Component {
                                     <p className='bannerContentWenzi'>转诊及住院绿色通道</p>
                                 </div>
                             </div>
-                            <div style={{width:'144px',height:'100%',display:'inline-block',position:'relative',top:'-65px'}}>
+                            <div style={{width:'144px',height:'100%',display:'inline-block',position:'relative',top:'-133px'}}>
                                 <div style={{width:'144px',height:'78px',textAlign:'center',marginBottom:'55px'}}>
                                     <img style={{marginBottom:'15px'}} src={dianzi} width='44px' height='46px' alt=""/>
                                     <p className='bannerContentWenzi'>电子病历及健康档案管理</p>
@@ -46,12 +46,8 @@ class AluServiceHulianwang extends Component {
                                     <img style={{marginBottom:'15px'}} src={weixin} width='57px' height='46px' alt=""/>
                                     <p className='bannerContentWenzi'>微信随访</p>
                                 </div>
-                                <div style={{width:'144px',height:'78px',textAlign:'center',marginBottom:'55px'}}>
-                                    <img style={{marginBottom:'15px'}} src="" width='44px' height='46px' alt=""/>
-                                    <p className='bannerContentWenzi'></p>
-                                </div>
                             </div>
-                            <div style={{width:'144px',height:'100%',display:'inline-block',position:'relative',top:'-65px'}}>
+                            <div style={{width:'144px',height:'100%',display:'inline-block',position:'relative',top:'-133px'}}>
                                 <div style={{width:'144px',height:'78px',textAlign:'center',marginBottom:'55px'}}>
                                     <img style={{marginBottom:'15px'}} src={zhihui} width='44px' height='46px' alt=""/>
                                     <p className='bannerContentWenzi'>智慧药房移动处方</p>
@@ -59,10 +55,6 @@ class AluServiceHulianwang extends Component {
                                 <div style={{width:'144px',height:'78px',textAlign:'center',marginBottom:'55px'}}>
                                     <img style={{marginBottom:'15px'}} src={zixun} width='44px' height='46px' alt=""/>
                                     <p className='bannerContentWenzi'>在线咨询轻问诊</p>
-                                </div>
-                                <div style={{width:'144px',height:'78px',textAlign:'center',marginBottom:'55px'}}>
-                                    <img style={{marginBottom:'15px'}} src="" width='44px' height='46px' alt=""/>
-                                    <p className='bannerContentWenzi'></p>
                                 </div>
                             </div>
                         </div>
