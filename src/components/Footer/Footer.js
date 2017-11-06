@@ -68,7 +68,7 @@ class Footer extends Component {
                         <div className='pic'>
                             <a target='blank' href="https://www.unicef.org"><img style={{marginRight:'10px'}} src={lianheguo} width='96px' height='57px' alt=""/></a>
                             <a target='blank' href="http://www.who.int/zh/"><img src={weishen} width='93px' height='57px' alt=""/></a>
-                            <a target='blank' href="http://www.kna-tech.com"><img src={kexue} width='92px' height='57px' alt=""/></a>
+                            <a target='blank' href="http://yuer.cbern.com.cn/"><img src={kexue} width='92px' height='57px' alt=""/></a>
                             <a target='blank' href="https://www.bma.org.uk"><img src={yinguo} width='93px' height='58px' alt=""/></a>
                             <a target='blank' href="http://www.cma.org.cn"><img src={zhongyi} width='93px' height='58px' alt=""/></a>
                         </div>
@@ -82,8 +82,9 @@ class Footer extends Component {
 
                 <div className='copy'>
                     <div className='copyRight'>
-                        <Link to='/copyRight' activeStyle={{textDecoration:'none',color:'white'}} onClick={()=>this.scrollToAnchor('copy')}>Copyright © 2017 www.healthydeer.com 深圳健康阿鹿信息技术有限公司 All Rights Reserved.<br/>
-                        中华人民共和国互联网药品信息服务资格证书(粤）-非经营性-2017-0017</Link>
+                        <Link to='/copyRight' activeStyle={{textDecoration:'none',color:'white'}} onClick={()=>this.scrollToAnchor('copy')}>
+                            <span style={{color:'white'}}>Copyright © 2017 www.healthydeer.com 深圳健康阿鹿信息技术有限公司 All Rights Reserved.<br/>
+                        中华人民共和国互联网药品信息服务资格证书(粤）-非经营性-2017-0017</span></Link>
                     </div>
                 </div>
                 {/*<Link to='/copyRight' activeStyle={{textDecoration:'none'}} onClick={()=>this.scrollToAnchor('copy')}>

@@ -14,6 +14,13 @@ class BaiduMap extends React.Component {
         map.centerAndZoom(point, 17);
         let marker = new BMap.Marker(point);        // 创建标注
         map.addOverlay(marker);                     // 将标注添加到地图中
+        map.addEventListener('click',function () {  //清除导航按钮
+            setTimeout(()=>{
+                var b=document.querySelectorAll('.BMap_pop input')
+                b[5].style.display='none'
+                console.log(b[5])
+            },100)
+        })
     }
 
     render () {
