@@ -5,11 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02d88fa9-e8c8-4f91-aca8-d2ada13d6786" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 10.png" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/Group 10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/16sucai_2016052117_10011 (1).png" afterPath="$PROJECT_DIR$/src/components/AluService/16sucai_2016052117_10011 (1).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/huiyuanImg/card.png" afterPath="$PROJECT_DIR$/src/components/AluService/huiyuanImg/card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/huiyuanImg/card2.png" afterPath="$PROJECT_DIR$/src/components/AluService/huiyuanImg/card2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/huiyuanImg/ketang.png" afterPath="$PROJECT_DIR$/src/components/AluService/huiyuanImg/ketang.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/huiyuanImg/songyao.png" afterPath="$PROJECT_DIR$/src/components/AluService/huiyuanImg/songyao.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/huiyuanImg/xiaohu.png" afterPath="$PROJECT_DIR$/src/components/AluService/huiyuanImg/xiaohu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/hulianwangImg/weixin.png" afterPath="$PROJECT_DIR$/src/components/AluService/hulianwangImg/weixin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/hulianwangImg/yongyao.png" afterPath="$PROJECT_DIR$/src/components/AluService/hulianwangImg/yongyao.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AluService/hulianwangImg/zhuanzhen.png" afterPath="$PROJECT_DIR$/src/components/AluService/hulianwangImg/zhuanzhen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Header/logo.png" afterPath="$PROJECT_DIR$/src/components/Header/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/Internet.png" afterPath="$PROJECT_DIR$/src/components/Home/Internet.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/Outpatient.png" afterPath="$PROJECT_DIR$/src/components/Home/Outpatient.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/cooperation.png" afterPath="$PROJECT_DIR$/src/components/Home/cooperation.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/cooperation2.png" afterPath="$PROJECT_DIR$/src/components/Home/cooperation2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/cooperation3.png" afterPath="$PROJECT_DIR$/src/components/Home/cooperation3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/hezuo.png" afterPath="$PROJECT_DIR$/src/components/Home/hezuo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/hulianwang.png" afterPath="$PROJECT_DIR$/src/components/Home/hulianwang.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/map.png" afterPath="$PROJECT_DIR$/src/components/Home/map.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/menzhen.png" afterPath="$PROJECT_DIR$/src/components/Home/menzhen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/news1.png" afterPath="$PROJECT_DIR$/src/components/Home/news1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/news1Sub.png" afterPath="$PROJECT_DIR$/src/components/Home/news1Sub.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/news2.png" afterPath="$PROJECT_DIR$/src/components/Home/news2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/news2Sub.png" afterPath="$PROJECT_DIR$/src/components/Home/news2Sub.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/news3.png" afterPath="$PROJECT_DIR$/src/components/Home/news3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/news3Sub.png" afterPath="$PROJECT_DIR$/src/components/Home/news3Sub.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home/technology.png" afterPath="$PROJECT_DIR$/src/components/Home/technology.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/OnlineBooking/online.png" afterPath="$PROJECT_DIR$/src/components/OnlineBooking/online.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/BaiduMap.js" afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/BaiduMap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Footer/Footer.css" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Header/Header.js" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.html" afterPath="$PROJECT_DIR$/test.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,8 +55,8 @@
       <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="31" column="6" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="31" selection-end-column="6" />
+            <state relative-caret-position="435">
+              <caret line="34" column="6" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="34" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -40,8 +65,8 @@
       <file leaf-file-name="BaiduMap.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/BaiduMap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+            <state relative-caret-position="293">
+              <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -158,10 +183,10 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="163" />
-    <option name="y" value="23" />
-    <option name="width" value="1528" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="75" />
+    <option name="y" value="68" />
+    <option name="width" value="1452" />
     <option name="height" value="842" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -194,11 +219,6 @@
             <path>
               <item name="heathydeer" type="b2602c69:ProjectViewProjectNode" />
               <item name="heathydeer" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heathydeer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heathydeer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -212,22 +232,7 @@
               <item name="heathydeer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="AboutUs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heathydeer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heathydeer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="AboutUs" type="462c0819:PsiDirectoryNode" />
-              <item name="AboutUSContent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heathydeer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heathydeer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Header" type="462c0819:PsiDirectoryNode" />
+              <item name="OnlineBooking" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -361,17 +366,17 @@
       <workItem from="1509412096550" duration="24363000" />
       <workItem from="1509448461987" duration="77518000" />
       <workItem from="1509930435208" duration="2048000" />
-      <workItem from="1509934213132" duration="7946000" />
+      <workItem from="1509934213132" duration="11029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188646000" />
+    <option name="totallyTimeSpent" value="191729000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="163" y="23" width="1528" height="842" extended-state="1" />
+    <frame x="75" y="68" width="1452" height="842" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17584606" sideWeight="0.49303135" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18518518" sideWeight="0.49303135" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -720,16 +725,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="31" column="6" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="31" selection-end-column="6" />
+        <state relative-caret-position="435">
+          <caret line="34" column="6" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="34" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/AboutUs/AboutUSContent/BaiduMap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        <state relative-caret-position="293">
+          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
           <folding />
         </state>
       </provider>
